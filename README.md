@@ -49,7 +49,10 @@ __イントラネット限定でも使える、ナレッジ/ノウハウ情報�
     - Gem 2.2以上
     - MySQL (MySQLを利用する場合)
     - sqlite3 (sqlite3を利用する場合)
-    - Bundler
+    - Bundler
+    - cmake
+    - libicu-dev
+    - gcc
 
 1. まずは本プロジェクトをcloneしてきます。
 
